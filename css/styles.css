@@ -6,12 +6,11 @@ h1, h2, h3, h4, h5, h6 {
 
 nav{
   position: absolute;
-  top:35px;
-  right: 0;
+  top: 10px;
 }
 
 nav ul{
-  margin:0;
+  
   text-align: center;
   overflow: hidden;
   width: 100%;
@@ -31,5 +30,9 @@ nav li a.active{
   font-style: italic;
   font-size: 105%;
   color: grey;
+}
+
+.off-canvas-wrapper{
+  margin-top: 30px;
 }
 
