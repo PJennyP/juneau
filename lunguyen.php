@@ -1,6 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="en">
-
+<!-- Head -->
   <?php include "head.inc" ?>
   
   <body>
